@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>exl1.png</file>
+    <file>../png-clipart-logo-exl-brand-product-analytics-financial-institution-blue-angle-thumbnail.png</file>
+    <file>1download.png</file>
+    <file>easy2Use.png</file>
+    <file>exl-service-1200px-logo.jpg</file>
+    <file>folderFile.png</file>
+    <file>secureShield.png</file>
+    <file>wwe.png</file>
+  </qresource>
+</RCC>
